@@ -3,7 +3,7 @@ name: Generate static org-roam-ui page
 on:
   push:
     branches:
-      - main
+      - master
 
 permissions:
   contents: read
