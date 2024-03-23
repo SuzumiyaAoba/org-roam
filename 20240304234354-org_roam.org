@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       55EC6040-A2CB-4D8E-B9EB-0EDDDF967DEE
+:mtime:    20240323173621 20240305023600
+:ctime:    20240304234354
+:END:
+#+title: org-roam
+#+filetags: :Emacs:
+
+** org-roam の使い方
+
+| 関数                   | 機能 |
+|------------------------+------|
+| =org-roam-insert-node= |      |
+| =org-roam-node-find=   |      |

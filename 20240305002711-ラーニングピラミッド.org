@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0EF3D221-5841-4A64-BC00-C8CA70C8204F
+:mtime:    20240323173621 20240305023600
+:ctime:    20240305002711
+:END:
+#+title: ラーニングピラミッド
+
+** 資料
+
++ [[https://nanzan-u.repo.nii.ac.jp/record/1672/files/ninkan17_03_tsuchiya_koji.pdf][ラーニングピラミッドの誤謬]]
+

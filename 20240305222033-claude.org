@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       FC25B962-9445-4509-A0CD-8106E068D48F
+:mtime:    20240323173622 20240305222115
+:ctime:    20240305222033
+:END:
+#+title: Claude
+
+[[https://www.anthropic.com/news/claude-3-family][公式サイト]]

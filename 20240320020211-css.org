@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       2E5AC701-F721-437B-834A-6EC8D1CF2508
+:mtime:    20240323173621 20240320020248
+:ctime:    20240320020211
+:END:
+#+title: CSS
+
+* 属性セレクタ
+
+** 参考サイト
+
++ [[https://note.com/mitsuru_h_cc/n/n45e235f250a9][CSSセレクタの細かい部分を学びなおす｜長谷川満＠制作業]]

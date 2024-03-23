@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       288B102A-AA71-45E4-897B-DE688BA5288F
+:mtime:    20240323173621 20240316231413
+:ctime:    20240310171219
+:END:
+#+title: cider
+#+filetags: :Clojure:プログラミング:
+
+** 基本情報
+
++ 公式サイト :: https://docs.cider.mx/cider/index.html
++ GitHub :: https://github.com/clojure-emacs/cider
+
+** 使い方
+
+

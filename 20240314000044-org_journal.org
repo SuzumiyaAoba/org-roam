@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       6117493E-93EA-4D65-9C8F-55F2F7692D37
+:mtime:    20240323173621 20240314000053
+:ctime:    20240314000044
+:END:
+#+title: org-journal
+#+filetags: :Emacs:
+

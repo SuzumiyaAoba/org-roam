@@ -1,0 +1,111 @@
+:PROPERTIES:
+:ID:       DECEF198-1335-4DC3-A05C-03F8B827E329
+:mtime:    20240324010751 20240323230018 20240323215746
+:ctime:    20240323215744
+:END:
+#+title: 投資信託
+
+* 保有
+
+** 三菱ＵＦＪ－日経平均高配当利回り株ファンド :アクティブ:
+
+*** 総経費率
+
++ <2023-06-16 金>--<2023-12-15 金> :: 0.69 %
+
+*** 参考資料
+
++ [[https://site0.sbisec.co.jp/marble/fund/detail/achievement.do?Param6=20331118B][SBI]]
++ [[https://www.am.mufg.jp/fund/253439.html][三菱UFJアセットマネジメント]]
+
+** 三菱ＵＦＪ－ｅＭＡＸＩＳ　Ｓｌｉｍ　全世界株式（オール・カントリー） :パッシブ:
+
+*** ベンチマーク
+
+MSCIオール・カントリー・ワールド・インデックス
+
+*** 参考資料
+
++ [[https://site0.sbisec.co.jp/marble/fund/detail/achievement.do?Param6=20331418A][SBI]]
++ [[https://fs.bk.mufg.jp/webasp/mufg/fund/detail/m00355920.html][三菱ＵＦＪ銀行]]
+
+** ＳＢＩ－ＳＢＩ・Ｖ・Ｓ＆Ｐ５００インデックス・ファンド :パッシブ:
+
+*** ベンチマーク
+
+S&P500指数
+
+*** 参考資料
+
++ [[https://site0.sbisec.co.jp/marble/fund/detail/achievement.do?Param6=289311199][SBI]]
+
+** ニッセイ－＜購入・換金手数料なし＞ニッセイＳＯＸ指数インデックスＦ　米国半導体株 :パッシブ:
+
+*** ベンチマーク
+
+PHLX SEMICONDUCTOR SELECTOR指数
+
+*** 参考資料
+
++ [[https://site0.sbisec.co.jp/marble/fund/detail/achievement.do?Param6=229314233][SBI]]
++ [[https://www.nam.co.jp/fundinfo/nssifb/main.html][ニッセイアセットマネジメント]]
+
+** ＵＢＳ－ＵＢＳ　ＭＳＣＩ先進国ＥＳＧ株式インデックス・ファンド :パッシブ:
+
+*** ベンチマーク
+
+MSCI ワールド SRI ロー・カーボン・セレクト 5% イシュアー・キャップド・インデックス
+
+*** 参考資料
+
++ [[https://site0.sbisec.co.jp/marble/fund/detail/achievement.do?Param6=250311191][SBI]]
++ [[https://japan1.ubs.com/am/funddetails/index/groupid:332/fundid:360101][UBSアセット・マネジメント]]
+
+** 大和－ｉＦｒｅｅＮＥＸＴ　ＦＡＮＧ＋インデックス :パッシブ:
+
+*** ベンチマーク
+
+NYSE FANG+指数
+
+*** 参考資料
+
++ [[https://site0.sbisec.co.jp/marble/fund/detail/achievement.do?Param6=204311181][SBI]]
++ [[https://www.daiwa-am.co.jp/funds/detail/3346/detail_top.html][大和アセットマネジメント株式会社]]
+
+** ａｕ－ａｕＡＭレバレッジ　ＮＡＳＤＡＱ１００ :パッシブ:
+
+*** 連動指数
+
+NASDAQ100指数の値動きの2倍
+
+*** 参考資料
+
++ [[https://site0.sbisec.co.jp/marble/fund/detail/achievement.do?Param6=2AY311227][SBI]]
++ [[https://www.kddi-am.com/funds/4001/][auアセットマネジメント]]
+
+** ＳＢＩ－ＳＢＩ日本高配当株式（分配）ファンド（年４回決算型） :アクティブ:
+
+*** ベンチマーク
+
++ [[https://site0.sbisec.co.jp/marble/fund/detail/achievement.do?Param6=28931123C][SBI]]
+
+** ＳＢＩ－ＳＢＩ・ｉシェアーズ・インド株式インデックス・ファンド :パッシブ:
+
+*** ベンチマーク
+
+S&P BSE SENSEXインデックス
+
+*** 参考資料
+
++ [[https://site0.sbisec.co.jp/marble/fund/detail/achievement.do?Param6=289311239][SBI]]
+
+** 大和－ｉＦｒｅｅＮＥＸＴ　インド株インデックス :パッシブ:
+
+*** ベンチマーク
+
+Nifty50指数
+
+*** 参考資料
+
++ [[https://site0.sbisec.co.jp/marble/fund/detail/achievement.do?Param6=204314233][SBI]]
++ [[https://www.daiwa-am.co.jp/funds/detail/3484/detail_top.html][大和アセットマネジメント株式会社]]

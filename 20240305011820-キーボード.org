@@ -1,0 +1,116 @@
+:PROPERTIES:
+:ID:       72A8008C-6410-409B-9A3F-D4B14349BDEF
+:mtime:    20240323173621 20240322235637
+:ctime:    20240305011820
+:END:
+#+title: キーボード
+
+* 所有
+
+** キーボード
+
+*** HHKB Professional HYBRID Type-S
+
++ 公式サイト :: https://happyhackingkb.com/jp/products/hybrid_types/
+
+*** HHKB Professional Classic
+
++ 公式サイト :: https://happyhackingkb.com/jp/products/classic/
+
+*** Kinesis Advantage360 Professional
+
++ 公式サイト :: https://www.ergonomics.co.jp/shopdetail/000000000099/
++ 価格 :: 75,768円
++ 購入日 :: <2023-02-17 金>
+
+**** アクセサリ
+
+***** Advantage360 Palm Pads
+
++ 公式サイト :: https://www.ergonomics.co.jp/shopdetail/000000000101/
++ 価格 :: 4,158円
++ 購入日 :: <2023-02-22 水>
+
+*** Keyball61
+
++ 遊舎工房 :: https://shop.yushakobo.jp/products/5358
++ 公式サイト :: https://shirogane-lab.net/items/64b8ed191435c1002bc4cd30
++ 価格 :: 25,300円
++ 購入日 :: <2023-07-23 日>
+
+**** アクセサリ
+
+***** Keyball61 木製ケース
+
++ BOOTH :: https://kinoya.booth.pm/items/5363233
++ 価格 :: 28,000円
++ 購入日 :: <2025-03-03 月>
+
+*** ErgoDash
+
++ 遊舎工房 :: https://shop.yushakobo.jp/products/ergodash
+
+*** Corne Cherry V3
+
++ 遊舎工房 :: https://shop.yushakobo.jp/products/corne-cherry-v3
++ 価格 :: 19,800円
++ 購入日 :: <2025-02-17 月>
+
+*** Ieneko42C
+
++ BOOTH :: https://booth.pm/ja/items/4790055
++ 価格 :: 14,540円 
++ 購入日 :: <2024-03-13 水>
++ キーマップ :: https://vial.rocks/ 
+
+** キースイッチ
+
+*** Cherry MX Speed Silver Switches Batch
+
++ ふもっふのおみせ :: https://www.fumo-shop.com/ducky-keyswitch-cherry-mx-silver.html
++ 価格 :: 920円 x 7
++ 購入日 :: <2023-11-19 日> 
+
+*** Kailh Box Navy Switches Batch
+
++ ふもっふのおみせ :: https://www.fumo-shop.com/ducky-keyswitch-kailh-box-navy.html
++ 価格 :: 590円 x 5
++ pcs :: 50 
++ 購入日 :: <2025-02-27 木>
+
+*** Akko Silver Pro Switch
+
++ 遊舎工房 :: https://shop.yushakobo.jp/products/7998
++ 価格 :: 2,200円 x 2
++ pcs :: 90 
++ 購入日 :: <2024-03-16 土>
+
+遊舎工房で試打したところ打鍵感がよかったため購入。
+
+
+* 気になるキーボード
+
+** Monkeypad
+
++ 遊舎工房 :: https://shop.yushakobo.jp/products/8411
++ GitHub :: https://github.com/monkeypad/monkeypad 
+
+** DUMANG DK6 Ergo メカニカルキーボード76キー
+
++ 遊舎工房 :: https://shop.yushakobo.jp/products/1454
+
+* キーボードメーカー
+
++ [[https://www.pfu.ricoh.com/direct/hhkb/][PFU]]
++ [[https://www.topre.co.jp/products/elec/keyboards.html][東プレ]]
++ [[https://epomaker.jp/][EPOMAKER]]
++ [[https://www.lofree.co/ja][Lofree]]
++ [[https://sanyoshop.jp/][NuPhy]]
++ [[https://www.yunzii.com/][YUNZII]]
+
+* 用語
+
+** フルキーボード
+
+キー数 104 のキーボード
+

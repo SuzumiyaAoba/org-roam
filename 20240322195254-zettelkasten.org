@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       A5A175F9-3916-4AE0-B0BD-5BF0261785AB
+:mtime:    20240323173622 20240322195318
+:ctime:    20240322195254
+:END:
+#+title: Zettelkasten
+
+
+* 参考URL
+
++ [[https://oleksii.shmalko.com/20200427070145/][§ Zettelkasten]]

@@ -1,0 +1,60 @@
+:PROPERTIES:
+:ID:       5167326B-4DC0-4ECA-ABA9-A7A2978BBEEF
+:mtime:    20240323173621 20240322195628
+:ctime:    20240319225551
+:END:
+#+title: Web Components
+
+* Web Components を構成する技術
+
++ Custom Element
++ Shadow DOM
++ Template HTML
+
+* Shadow DOM
+
+* ライフサイクルメソッド
+
+** constructor()
+
++ コンポーネントの初期化時に呼ばれる
++ =super= を呼ばないといけない
++ デフォルトの設定やその他のプリレンダリング処理を行う
+
+** static observedAttributes()
+
++ ブラウザが監視する属性名の配列を返す
+
+** attributeChangedCallback(propertyName, oldValue, newValue)
+
++ 属性が追加、削除、変更されるたびに呼び出される
++ HTML で定義したものは即座に渡される
++ JavaScript により修正することができる
+
+** connectedCallback()
+
++ Web Components が DOM に追加された時に呼び出される
++ 必要なレンダリングをすべて実行する
+
+** disconnectedCallback()
+
++ Web Components が DOM から削除されたとき呼び出される
++ 保存した状態の削除や Ajax リクエストの中断、クリーンアップが必要な場合に使える 
+
+** adoptedCallback()
+
++ 新しい文書に移動するたびに呼び出される
+
+* HTML テンプレート
+
+
+
+* Polyfill
+
+https://github.com/webcomponents/polyfills
+
+* 参考サイト
+
++ [[https://developer.mozilla.org/ja/docs/Web/API/Web_components][ウェブコンポーネント - Web API | MDN]]
++ [[https://kinsta.com/jp/blog/web-components/][【2024 年版】Web Components詳細入門ガイド]]
++ [[https://developer.chrome.com/docs/css-ui/declarative-shadow-dom?hl=ja][宣言型の Shadow DOM | CSS and UI | Chrome for Developers]]

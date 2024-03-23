@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       A763B327-91DF-4582-ACD3-17FD58FEBB2C
+:mtime:    20240323173622 20240314013735
+:ctime:    20240313234944
+:END:
+#+title: org-capture
+#+filetags: :Emacs:
+
+** org-capture とは
+
+
+

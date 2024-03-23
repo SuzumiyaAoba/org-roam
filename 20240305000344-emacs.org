@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       4F2DA7F0-2FB5-4A65-A2B2-4B98B1B4E6D1
+:mtime:    20240323173621 20240305023600
+:ctime:    20240305000344
+:END:
+#+title: Emacs
+
+** Packages
+
+*** Package Manager
+
+[[id:98ADF80A-72CF-40D4-9F37-BB11F2D958FD][Emacs Package Manager]]
+
+*** Writing
+
++ [[id:AD9E2B2B-AFBA-428B-AE49-91EFEAEE1667][org-mode]]

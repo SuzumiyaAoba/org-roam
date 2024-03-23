@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       AD9E2B2B-AFBA-428B-AE49-91EFEAEE1667
+:mtime:    20240323173622 20240314013805
+:ctime:    20240304235536
+:END:
+#+title: org-mode
+#+filetags: :Emacs:
+
+** 基本操作
+
+
+** 関連パッケージ
+
++ [[id:55EC6040-A2CB-4D8E-B9EB-0EDDDF967DEE][org-roam]]
++ [[id:4570AA4A-B185-40A8-903C-FE5A470154BE][org-agenda]]
++ [[id:A763B327-91DF-4582-ACD3-17FD58FEBB2C][org-capture]]
++ [[id:6117493E-93EA-4D65-9C8F-55F2F7692D37][org-journal]]
+
+** トラブルシューティング
+
+*** HTMLを出力する
+
+#+begin_src
+,#+HTML: Literal HTML code for export
+
+,#+begin_export
+All lines between these makers are exported literally
+,#+end_src
+#+end_src
