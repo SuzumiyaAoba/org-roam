@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       D44E236C-A6D5-457D-87B4-654D8F134F73
+:END:
+#+title: 2024-03-05
+#+filetags: :日記:
+
+** やったこと
+
+*** org-roam の導入
+
+** Todo [1/2]
+
+*** TODO [#C] hydra の設定
+SCHEDULED: <2024-03-09 土>
+
+*** DONE [#A] 確定申告
+CLOSED: [2024-03-17 日 17:35] DEADLINE: <2024-03-15 金> SCHEDULED: <2024-03-09 土>
+
