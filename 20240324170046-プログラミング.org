@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       8857BBE6-0379-4CE0-8C31-F00B7AF6E7B0
+:mtime:    20240324170050
+:ctime:    20240324170046
+:END:
+#+title: プログラミング
+#+filetags: :プログラミング:
+
+* バージョニング
+
+** 参考文献
+
++ [[https://keepachangelog.com/ja/1.1.0/][変更履歴を記録する]]
++ [[https://www.conventionalcommits.org/ja/v1.0.0/][Conventional Commits]] 
+

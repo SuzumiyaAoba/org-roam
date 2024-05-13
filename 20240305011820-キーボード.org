@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       72A8008C-6410-409B-9A3F-D4B14349BDEF
-:mtime:    20240323173621 20240322235637
+:mtime:    20240427210024 20240323173621 20240322235637
 :ctime:    20240305011820
 :END:
 #+title: キーボード
@@ -20,7 +20,7 @@
 *** Kinesis Advantage360 Professional
 
 + 公式サイト :: https://www.ergonomics.co.jp/shopdetail/000000000099/
-+ 価格 :: 75,768円
++ 価格 :: 75,768 円
 + 購入日 :: <2023-02-17 金>
 
 **** アクセサリ
@@ -28,14 +28,14 @@
 ***** Advantage360 Palm Pads
 
 + 公式サイト :: https://www.ergonomics.co.jp/shopdetail/000000000101/
-+ 価格 :: 4,158円
++ 価格 :: 4,158 円
 + 購入日 :: <2023-02-22 水>
 
 *** Keyball61
 
 + 遊舎工房 :: https://shop.yushakobo.jp/products/5358
 + 公式サイト :: https://shirogane-lab.net/items/64b8ed191435c1002bc4cd30
-+ 価格 :: 25,300円
++ 価格 :: 25,300 円
 + 購入日 :: <2023-07-23 日>
 
 **** アクセサリ
@@ -43,7 +43,7 @@
 ***** Keyball61 木製ケース
 
 + BOOTH :: https://kinoya.booth.pm/items/5363233
-+ 価格 :: 28,000円
++ 価格 :: 28,000 円
 + 購入日 :: <2025-03-03 月>
 
 *** ErgoDash
@@ -53,47 +53,71 @@
 *** Corne Cherry V3
 
 + 遊舎工房 :: https://shop.yushakobo.jp/products/corne-cherry-v3
-+ 価格 :: 19,800円
++ 価格 :: 19,800 円
 + 購入日 :: <2025-02-17 月>
 
 *** Ieneko42C
 
 + BOOTH :: https://booth.pm/ja/items/4790055
-+ 価格 :: 14,540円 
++ 価格 :: 14,540 円
 + 購入日 :: <2024-03-13 水>
-+ キーマップ :: https://vial.rocks/ 
++ キーマップ :: https://vial.rocks/
+
+*** Rainy75 Pro
+
++ Makuake :: https://www.makuake.com/project/rainy75/
++ 価格 :: 24,900 円
++ 購入日 :: <2024-03-03 日>
+
+*** Tofu60 2.0 kit HHKB - Snow (E-Coating) - ANSI Polycarbone plate
+
++ 遊舎工房 :: https://shop.yushakobo.jp/products/7536?variant=49230321352935
++ 価格 :: 30,800 円
++ 購入日 :: <2025-04-24 木>
 
 ** キースイッチ
+
+*** Everglide Sakura Pink V2 37g
+
++ 遊舎工房 :: https://shop.yushakobo.jp/products/8054
++ 価格 :: 8,085 円
++ pcs :: 35 x 3
 
 *** Cherry MX Speed Silver Switches Batch
 
 + ふもっふのおみせ :: https://www.fumo-shop.com/ducky-keyswitch-cherry-mx-silver.html
 + 価格 :: 920円 x 7
-+ 購入日 :: <2023-11-19 日> 
++ 購入日 :: <2023-11-19 日>
 
 *** Kailh Box Navy Switches Batch
 
 + ふもっふのおみせ :: https://www.fumo-shop.com/ducky-keyswitch-kailh-box-navy.html
 + 価格 :: 590円 x 5
-+ pcs :: 50 
++ pcs :: 50
 + 購入日 :: <2025-02-27 木>
 
 *** Akko Silver Pro Switch
 
 + 遊舎工房 :: https://shop.yushakobo.jp/products/7998
 + 価格 :: 2,200円 x 2
-+ pcs :: 90 
++ pcs :: 90
 + 購入日 :: <2024-03-16 土>
 
 遊舎工房で試打したところ打鍵感がよかったため購入。
 
+*** Kailh Deep Sea Silent Pro Box
+
++ Keychron :: https://keychron.co.jp/products/kailh-deep-sea-silent-pro-box-switch?variant=42735721611435
++ 価格 :: 5,333 円
++ pcs :: 70
++ 購入日 :: <2025-04-17 木>
 
 * 気になるキーボード
 
 ** Monkeypad
 
 + 遊舎工房 :: https://shop.yushakobo.jp/products/8411
-+ GitHub :: https://github.com/monkeypad/monkeypad 
++ GitHub :: https://github.com/monkeypad/monkeypad
 
 ** DUMANG DK6 Ergo メカニカルキーボード76キー
 

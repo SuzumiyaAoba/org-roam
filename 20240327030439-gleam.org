@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       5521A00E-0F41-4BD6-9711-ABE5DB21D7E8
+:mtime:    20240327030442
+:ctime:    20240327030439
+:END:
+#+title: Gleam
+
+* 公式サイト
+
+https://gleam.run/
+
+

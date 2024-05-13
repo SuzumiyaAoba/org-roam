@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       E699FDEB-0EB0-4372-A989-9F91B93F33BF
+:mtime:    20240324183106 20240324171420
+:ctime:    20240324171418
+:END:
+#+title: Conventioal Commits
+#+filetags: :プログラミング:
+
+* 公式サイト
+
+https://www.conventionalcommits.org/ja/v1.0.0/
+

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       B78B24C9-0A18-4296-A04B-E1B464BF56AD
+:mtime:    20240405082811
+:ctime:    20240405082807
+:END:
+#+title: Macro Tree Transducers
+

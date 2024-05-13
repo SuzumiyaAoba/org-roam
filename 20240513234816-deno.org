@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       35C4C8C8-CB67-4961-9712-B7C0EF449E53
+:mtime:    20240513234819
+:ctime:    20240513234816
+:END:
+#+title: deno
+
+** コマンド
+
+*** 型チェック
+
+=tsc --noEmit= に相当することをしたい場合
+
+#+begin_src sh
+deno check **/*.ts
+#+end_src

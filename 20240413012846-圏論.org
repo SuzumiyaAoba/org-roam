@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       C8DBD982-6AF1-47A9-B59D-05DBC0CBDCAD
+:mtime:    20240513234810 20240413012849
+:ctime:    20240413012846
+:END:
+#+title: 圏論
+
+* 圏の定義
+
++ 対象 (/Objects/) :: $A, B, C, \dots$
++ 射 (/Arrows/) :: $f, g, h, \dots$
++ それぞれの射 $f$ について対象 $\mathrm{dom}(f)$, $\mathrm{cod}(f)$ が与えられ、それぞれ定義域 (/domain/)、余域 (/codomain/) と呼ぶ。
+  射 $f$ について $f: A \to B$ と書いたとき $A = \mathrm{dom}(f)$、$B = \mathrm{cod}(f)$ であることを示す。
++ 射 $f: A \to B$、$g: B \to C$ が与えられたとき、$\mathrm{cod}(f) = \mathrm{dom}(g)$ で射 $g \circ f: A \to C$ が与えられ、
+  $f$ と $g$ の合成 (/composition/) と呼ばれる。
++ それぞれの対象 $A$ について射 $1_A: A \to A$ が与えられ $A$ の恒等射 (/identity arrow/) と呼ばれる。
+
+これらのは次の規則を満たす。
+
++ 結合法則 :: すべての $f: A \to B$、$g: B \to C$、$h: C \to D$ について $h \circ (g \circ f) = (h \circ g) \circ f$ 。
++ 単位元 :: すべての $f: A \to B$ について $f \circ 1_A = f = 1_B \circ f$ 。
+
+* 関手
+
+
+
+* 参考書
+
++ Category Theory
